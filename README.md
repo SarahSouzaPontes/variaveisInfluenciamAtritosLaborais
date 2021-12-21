@@ -1,0 +1,2 @@
+# variaveisInfluenciamAtritosLaborais
+Prevendo Variaveis que Influenciam Atritos Laborais
